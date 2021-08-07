@@ -10,3 +10,6 @@
 - create a crack function that will decode the cipher so that an encrypted message can be transformed into its original state WITHOUT access to the key.
 - Devise a method for the computer to determine if code was broken with minimal human guidance.
 
+
+## Collaborator
+Davee, Daniel, Michael, Wondwosen
